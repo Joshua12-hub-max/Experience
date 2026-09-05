@@ -5,7 +5,7 @@ CP1&2   Capstone Project 1 & 2
         City Human Resources Management Officer 
         City Government of Meycauayan Bulacan
 
-            Full-Stack Software Developer Role
+            Software Developer Role
             July 2025 - March 2026
 
             Human Resource Information System Project
@@ -22,7 +22,7 @@ SDI     Software Developer Intern
         Valenzuela City.
         486 Hours of Internships
         
-            Full-Stack Software Engineer
+            Software Engineer
             July 2025 - November 2025
       
             Human Resource Information System internal development.
