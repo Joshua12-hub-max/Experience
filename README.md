@@ -2,10 +2,10 @@
 Software Development Experiences
 
 CP1&2   Capstone Project 1 & 2
-        City Human Resources Management Officer 
+        City Human Resources Management Officer  
         City Government of Meycauayan Bulacan
 
-            Software Developer Role
+            Software Developer 
             July 2025 - March 2026
 
             Human Resource Information System Project
